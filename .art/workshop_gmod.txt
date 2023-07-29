@@ -1,0 +1,18 @@
+[Replacement] L4D2 Baton
+
+[h1][b][i]The Police Baton from L4D2 for the Stunstick[/i][/b][/h1]
+
+Pretty straight-forward swap. No scripts, just some model/sound replacements.
+
+[h1][b][i]Credit Where It's Due[/i][/b][/h1]
+[list]
+[*][url=https://steamcommunity.com/id/JesseVanover/]V92[/url] - Compile for HL2, GMod C_Model
+[*]Valve Corporation/Turtlerock Studios - (L4D2) original assets
+[*][url=https://steamcommunity.com/id/inakistuff/]Inaki[/url] - Original C_Models for GMod, [url=https://gamebanana.com/gamefiles/12462]source files[/url]
+[/list]
+
+[h1][b][i]Other Versions[/i][/b][/h1]
+[list]
+[*][url=https://gamebanana.com/skins/172481]Half-Life 2[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2290841800]Synergy[/url]
+[/list]
