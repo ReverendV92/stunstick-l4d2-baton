@@ -6,3 +6,6 @@
 *.cache
 *.ini
 *.json
+*.json
+*.lnk
+*.bat

@@ -1,0 +1,98 @@
+
+//////////////////////////////
+// L4D2 Police Baton for Stunstick
+//////////////////////////////
+
+weapondata
+{
+
+	printname "Police Baton"
+	viewmodel models/weapons/v_stunbaton.mdl
+	playermodel models/weapons/w_stunbaton.mdl
+	anim_prefix stunbaton
+
+	bucket 0
+	bucket_position 6
+
+	primary_ammo None
+	clip_size -1
+
+	secondary_ammo None
+
+	meleeweapon 1
+
+	autoswitchto 0
+	autoswitchfrom 0
+
+	weight 0
+	item_flags 32
+	rumble 9
+
+	sounddata
+	{
+
+		single_shot weapon_stunstick.swing
+
+		melee_hit weapon_stunstick.melee_hit
+		melee_hit_world weapon_stunstick.melee_hitworld
+		melee_miss weapon_stunstick.melee_miss
+
+	}
+
+	texturedata
+	{
+
+		weapon
+		{
+
+			font weaponicons
+			character n
+
+		}
+
+		weapon_s
+		{
+
+			font weaponiconsselected
+			character n
+
+		}
+
+		ammo
+		{
+
+			font weaponicons
+			character n
+
+		}
+
+		ammo2
+		{
+
+			file sprites/640hud7
+			x 48
+			y 72
+			width 24
+			height 24
+
+		}
+
+		crosshair
+		{
+
+			font crosshairs
+			character Q
+
+		}
+
+		autoaim
+		{
+
+			font crosshairs
+			character Q
+
+		}
+
+	}
+
+}
