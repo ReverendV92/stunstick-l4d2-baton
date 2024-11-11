@@ -8,7 +8,7 @@ Pretty straight-forward swap. No scripts, just some model/sound replacements.
 **_Credit Where It's Due_**
 ===========================
 
-*   [V92](https://steamcommunity.com/id/JesseVanover/) - Compile for HL2, GMod C\_Model
+*   [V92](https://steamcommunity.com/profiles/76561197998218505) - Compile for HL2, GMod C\_Model
 *   Valve Corporation/Turtlerock Studios - (L4D2) original assets
 *   [Inaki](https://steamcommunity.com/id/inakistuff/) - Original C\_Models for GMod, source files
 
